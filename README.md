@@ -17,7 +17,7 @@ environment running immediately and for whatever reason won't run DOS.
 Requirements
 ------------
 
-package | 
+Package | Purpose
 ------- | -------------------------------------------
 bcc     | Bruce's C Compiler for X86.
 yasm    | X86 Assembler for the Boot Sector.
