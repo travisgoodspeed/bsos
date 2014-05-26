@@ -15,10 +15,10 @@ environment running immediately and for whatever reason won't run DOS.
 
 
 
-      | Requirements
-------------------------------
-bcc   | Bruce's C Compiler for X86.
-yasm  | X86 Assembler for the Boot Sector.
-ld86  | X86 Linker.
-bochs | Slow but easy to tinker with X86 Emulator.
-qemu  | Faster X86 emulator.
+package | Requirements
+----------------------------------------------------
+bcc     | Bruce's C Compiler for X86.
+yasm    | X86 Assembler for the Boot Sector.
+ld86    | X86 Linker.
+bochs   | Slow but easy to tinker with X86 Emulator.
+qemu    | Faster X86 emulator.
