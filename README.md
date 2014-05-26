@@ -24,3 +24,12 @@ yasm    | X86 Assembler for the Boot Sector.
 ld86    | X86 Linker.
 bochs   | Slow but easy to tinker with X86 Emulator.
 qemu    | Faster X86 emulator.
+
+
+Releases
+--------
+
+PoC||GTFO 0x02, the Children's Bible Coloring Book of Proof of Concept
+or Get the Fuck Out, is a polyglot that is valid as PDF, ZIP, or as a
+disk image that boots to an older version of BSOS.
+https://archive.org/details/Pocorgtfo02
